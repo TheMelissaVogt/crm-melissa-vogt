@@ -305,7 +305,25 @@
       "lastModified": "2026-05-28",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T18:11:28.885Z"
+    },
+    {
+      "id": "mpptdcix6cewjv503ba",
+      "name": "Ron Ringblum",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ron.ringblum",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Warm",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": "2026-06-02",
+      "notes": "",
+      "lastModified": "2026-05-28",
+      "dateAdded": "2026-05-28",
+      "addedAt": "2026-05-28T18:15:54.537Z"
     }
   ],
-  "lastUpdated": "2026-05-28T18:11:28.885Z"
+  "lastUpdated": "2026-05-28T18:15:54.537Z"
 }
