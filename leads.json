@@ -71,7 +71,25 @@
       "lastModified": "2026-05-28",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T17:09:08.271Z"
+    },
+    {
+      "id": "mppr154pyjzc5rqck2",
+      "name": "Sunny Mcfelix",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100083464669540",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Warm",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": "2026-05-30",
+      "notes": "Responded to Ad - Traded a little before. Sent voice note. No response yet.",
+      "lastModified": "2026-05-28",
+      "dateAdded": "2026-05-28",
+      "addedAt": "2026-05-28T17:10:25.849Z"
     }
   ],
-  "lastUpdated": "2026-05-28T17:09:27.339Z"
+  "lastUpdated": "2026-05-28T17:10:25.849Z"
 }
