@@ -215,7 +215,25 @@
       "lastModified": "2026-05-28",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T17:24:35.073Z"
+    },
+    {
+      "id": "mppryt8hq1fsrqi6fcb",
+      "name": "Shawn Frye",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61584330082125",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Warm",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": "2026-05-31",
+      "notes": "Responded to an ad. Traded a little but got scammed and has been in jail for a couple years. Is interested in signals but wants to learn on his own. ",
+      "lastModified": "2026-05-28",
+      "dateAdded": "2026-05-28",
+      "addedAt": "2026-05-28T17:36:36.737Z"
     }
   ],
-  "lastUpdated": "2026-05-28T17:24:35.073Z"
+  "lastUpdated": "2026-05-28T17:36:36.737Z"
 }
