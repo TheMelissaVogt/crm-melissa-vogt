@@ -35,7 +35,25 @@
       "lastModified": "2026-05-28",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T17:05:45.380Z"
+    },
+    {
+      "id": "mppqwzr95y1n0jg8gir",
+      "name": "Jay Dietzler",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jay.dietzler.1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": "2026-05-30",
+      "notes": "Lives in Wisconsin - reached out from Ad, no response",
+      "lastModified": "2026-05-28",
+      "dateAdded": "2026-05-28",
+      "addedAt": "2026-05-28T17:07:12.261Z"
     }
   ],
-  "lastUpdated": "2026-05-28T17:05:45.380Z"
+  "lastUpdated": "2026-05-28T17:07:12.261Z"
 }
