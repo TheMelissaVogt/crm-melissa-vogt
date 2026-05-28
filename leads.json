@@ -179,7 +179,25 @@
       "lastModified": "2026-05-28",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T17:22:14.140Z"
+    },
+    {
+      "id": "mppri2wrmqc8ojb7sf",
+      "name": "Raja Lawrence",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/lesmon.lawrence",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Warm",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": "2026-05-30",
+      "notes": "Responded to ad, trades currently but struggles with consistency and entry. Sent voice note back, waiting response. ",
+      "lastModified": "2026-05-28",
+      "dateAdded": "2026-05-28",
+      "addedAt": "2026-05-28T17:23:36.123Z"
     }
   ],
-  "lastUpdated": "2026-05-28T17:22:14.140Z"
+  "lastUpdated": "2026-05-28T17:23:36.123Z"
 }
