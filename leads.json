@@ -1,1 +1,23 @@
-{"leads": [], "lastUpdated": ""}
+{
+  "leads": [
+    {
+      "id": "mppqtj3cwjix9hdy2qm",
+      "name": "Kurt Haueter",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kurt.haueter",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Warm",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": "2026-05-30",
+      "notes": "Brand new to trading. Wants to replace his full-time income",
+      "lastModified": "2026-05-28",
+      "dateAdded": "2026-05-28",
+      "addedAt": "2026-05-28T17:04:30.697Z"
+    }
+  ],
+  "lastUpdated": "2026-05-28T17:04:30.697Z"
+}
