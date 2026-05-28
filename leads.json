@@ -125,7 +125,25 @@
       "lastModified": "2026-05-28",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T17:13:03.771Z"
+    },
+    {
+      "id": "mppr8xrl8u8cdcbeu47",
+      "name": "StClair Eugene Reide III",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/stclair.eugene.reide.iii",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Warm",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": "2026-05-30",
+      "notes": "Responded to Ad, currently trading but struggling with consistency. Sent voice note, waiting on response.",
+      "lastModified": "2026-05-28",
+      "dateAdded": "2026-05-28",
+      "addedAt": "2026-05-28T17:16:29.553Z"
     }
   ],
-  "lastUpdated": "2026-05-28T17:13:03.771Z"
+  "lastUpdated": "2026-05-28T17:16:29.553Z"
 }
