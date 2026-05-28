@@ -197,7 +197,25 @@
       "lastModified": "2026-05-28",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T17:23:36.123Z"
+    },
+    {
+      "id": "mpprjce968xw4c59wa4",
+      "name": "Jennifer Gaines",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jengaines925",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Warm",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": "2026-05-30",
+      "notes": "Responded to ad. New to trading, curious about the app. Sent a voice note response. Waiting to hear back. ",
+      "lastModified": "2026-05-28",
+      "dateAdded": "2026-05-28",
+      "addedAt": "2026-05-28T17:24:35.073Z"
     }
   ],
-  "lastUpdated": "2026-05-28T17:23:36.123Z"
+  "lastUpdated": "2026-05-28T17:24:35.073Z"
 }
