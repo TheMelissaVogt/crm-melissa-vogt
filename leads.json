@@ -251,7 +251,25 @@
       "lastModified": "2026-05-28",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T17:38:24.727Z"
+    },
+    {
+      "id": "mppsfhmn92emnb8lxdu",
+      "name": "Paul Francis",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/paul.francis.606754",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Warm",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": "2026-06-02",
+      "notes": "",
+      "lastModified": "2026-05-28",
+      "dateAdded": "2026-05-28",
+      "addedAt": "2026-05-28T17:49:34.847Z"
     }
   ],
-  "lastUpdated": "2026-05-28T17:38:24.727Z"
+  "lastUpdated": "2026-05-28T17:49:34.847Z"
 }
