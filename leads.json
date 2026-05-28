@@ -89,7 +89,25 @@
       "lastModified": "2026-05-28",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T17:10:25.849Z"
+    },
+    {
+      "id": "mppr2nq7sy5rjugy2zd",
+      "name": "David David",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/david.david.521382",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": "2026-05-30",
+      "notes": "Responded to ad, brand new to trading, wants to replace job income. Sent a voice note. Waiting on response.",
+      "lastModified": "2026-05-28",
+      "dateAdded": "2026-05-28",
+      "addedAt": "2026-05-28T17:11:36.607Z"
     }
   ],
-  "lastUpdated": "2026-05-28T17:10:25.849Z"
+  "lastUpdated": "2026-05-28T17:11:36.607Z"
 }
