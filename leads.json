@@ -17,7 +17,25 @@
       "lastModified": "2026-05-28",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T17:04:30.697Z"
+    },
+    {
+      "id": "mppqv4pw95e2cvcuob7",
+      "name": "Donatello Juist",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/don.juist",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": "2026-05-30",
+      "notes": "Brand new to trading. Asked about goals..",
+      "lastModified": "2026-05-28",
+      "dateAdded": "2026-05-28",
+      "addedAt": "2026-05-28T17:05:45.380Z"
     }
   ],
-  "lastUpdated": "2026-05-28T17:04:30.697Z"
+  "lastUpdated": "2026-05-28T17:05:45.380Z"
 }
