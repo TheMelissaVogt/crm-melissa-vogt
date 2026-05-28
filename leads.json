@@ -161,7 +161,25 @@
       "lastModified": "2026-05-28",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T17:21:03.576Z"
+    },
+    {
+      "id": "mpprgbng1koe4bmd3qzj",
+      "name": "Brett",
+      "email": "",
+      "phone": "",
+      "social": "https://www.instagram.com/b_1rett",
+      "source": "Instagram",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Warm",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": "2026-05-30",
+      "notes": "Responded to ad, asked about my trading experience. Sent voice note back, waiting on response. ",
+      "lastModified": "2026-05-28",
+      "dateAdded": "2026-05-28",
+      "addedAt": "2026-05-28T17:22:14.140Z"
     }
   ],
-  "lastUpdated": "2026-05-28T17:21:03.576Z"
+  "lastUpdated": "2026-05-28T17:22:14.140Z"
 }
