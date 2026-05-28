@@ -107,7 +107,25 @@
       "lastModified": "2026-05-28",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T17:11:36.607Z"
+    },
+    {
+      "id": "mppr4izf28hmt6otn8k",
+      "name": "Keith Kouts",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/keith.kouts",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Warm",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": "2026-05-30",
+      "notes": "Responded to Ad. Brand new to trading. Sent voice note, waiting for response. ",
+      "lastModified": "2026-05-28",
+      "dateAdded": "2026-05-28",
+      "addedAt": "2026-05-28T17:13:03.771Z"
     }
   ],
-  "lastUpdated": "2026-05-28T17:11:44.684Z"
+  "lastUpdated": "2026-05-28T17:13:03.771Z"
 }
