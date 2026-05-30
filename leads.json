@@ -172,11 +172,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Warm",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-05-28",
-      "nextFollowUp": "2026-05-30",
-      "notes": "Responded to ad, asked about my trading experience. Sent voice note back, waiting on response. ",
-      "lastModified": "2026-05-28",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-05-30",
+      "nextFollowUp": "2026-06-03",
+      "notes": "Responded to ad, asked about my trading experience. Sent voice note back, waiting on response. - 1st follow-up: Hey Brett, just wanted to circle back.\n\nYou had asked about my trading experience, but I'm curious about yours as well. What has your trading journey looked like so far?\n",
+      "lastModified": "2026-05-30",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T17:22:14.140Z"
     },
@@ -343,5 +343,5 @@
       "addedAt": "2026-05-28T18:22:41.001Z"
     }
   ],
-  "lastUpdated": "2026-05-30T18:44:56.221Z"
+  "lastUpdated": "2026-05-30T18:47:36.504Z"
 }
