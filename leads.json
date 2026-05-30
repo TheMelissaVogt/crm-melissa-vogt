@@ -154,11 +154,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Warm",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-05-28",
-      "nextFollowUp": "2026-05-30",
-      "notes": "Responded to ad, Mostly curious about the app/tools - HE sent a message about scam concerns. Been trading about 2 years. Needs something that isn't time consuming. Cant be on the charts all the time. ",
-      "lastModified": "2026-05-28",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-05-30",
+      "nextFollowUp": "2026-06-03",
+      "notes": "Responded to ad, Mostly curious about the app/tools - HE sent a message about scam concerns. Been trading about 2 years. Needs something that isn't time consuming. Cant be on the charts all the time. 1st Follow-up: Hey [Name], quick question.\n\nYou mentioned you've been trading for about 2 years and you're looking for something that doesn't require being on the charts all day.\n\nWhat have you found to be the most time-consuming part of trading for you?\n",
+      "lastModified": "2026-05-30",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T17:21:03.576Z"
     },
@@ -343,5 +343,5 @@
       "addedAt": "2026-05-28T18:22:41.001Z"
     }
   ],
-  "lastUpdated": "2026-05-30T18:47:36.504Z"
+  "lastUpdated": "2026-05-30T18:50:39.688Z"
 }
