@@ -82,11 +82,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Warm",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-05-28",
-      "nextFollowUp": "2026-05-30",
-      "notes": "Responded to Ad - Traded a little before. Sent voice note. No response yet.",
-      "lastModified": "2026-05-28",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-05-30",
+      "nextFollowUp": "2026-06-03",
+      "notes": "Responded to Ad - Traded a little before. Sent voice note. No response yet. ",
+      "lastModified": "2026-05-30",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T17:10:25.849Z"
     },
@@ -343,5 +343,5 @@
       "addedAt": "2026-05-28T18:22:41.001Z"
     }
   ],
-  "lastUpdated": "2026-05-30T19:00:15.026Z"
+  "lastUpdated": "2026-05-30T19:03:37.862Z"
 }
