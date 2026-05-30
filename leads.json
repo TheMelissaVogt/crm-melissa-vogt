@@ -209,10 +209,10 @@
       "videoSent": false,
       "temperature": "Warm",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-05-28",
-      "nextFollowUp": "2026-05-30",
-      "notes": "Responded to ad. New to trading, curious about the app. Sent a voice note response. Waiting to hear back. ",
-      "lastModified": "2026-05-28",
+      "lastContact": "2026-05-30",
+      "nextFollowUp": "2026-06-03",
+      "notes": "Responded to ad. New to trading, curious about the app. Sent a voice note response. Waiting to hear back. - 1st follow-up: Hey Jennifer, just checking back in. Curious, what was it about trading that caught your attention in the first place?",
+      "lastModified": "2026-05-30",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T17:24:35.073Z"
     },
@@ -343,5 +343,5 @@
       "addedAt": "2026-05-28T18:22:41.001Z"
     }
   ],
-  "lastUpdated": "2026-05-28T18:22:41.001Z"
+  "lastUpdated": "2026-05-30T18:38:22.158Z"
 }
