@@ -28,11 +28,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Warm",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-05-28",
-      "nextFollowUp": "2026-05-30",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-05-30",
+      "nextFollowUp": "2026-06-03",
       "notes": "Brand new to trading. Asked about goals..",
-      "lastModified": "2026-05-28",
+      "lastModified": "2026-05-30",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T17:05:45.380Z"
     },
@@ -343,5 +343,5 @@
       "addedAt": "2026-05-28T18:22:41.001Z"
     }
   ],
-  "lastUpdated": "2026-05-30T19:09:31.512Z"
+  "lastUpdated": "2026-05-30T19:11:29.125Z"
 }
