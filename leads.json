@@ -467,7 +467,25 @@
       "lastModified": "2026-06-01",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T16:04:33.774Z"
+    },
+    {
+      "id": "mpvegz7d2pb4agk3do1",
+      "name": "Traci Mcginley ",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/traci.trumbo.71",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-01",
+      "nextFollowUp": "2026-06-04",
+      "notes": "Sent Script",
+      "lastModified": "2026-06-01",
+      "dateAdded": "2026-06-01",
+      "addedAt": "2026-06-01T16:05:26.713Z"
     }
   ],
-  "lastUpdated": "2026-06-01T16:04:33.774Z"
+  "lastUpdated": "2026-06-01T16:05:26.713Z"
 }
