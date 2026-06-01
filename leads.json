@@ -223,14 +223,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=61584330082125",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Nurture",
       "videoSent": false,
       "temperature": "Warm",
       "lastAction": "Initial Contact",
       "lastContact": "2026-05-28",
       "nextFollowUp": "2026-05-31",
-      "notes": "Responded to an ad. Traded a little but got scammed and has been in jail for a couple years. Is interested in signals but wants to learn on his own. ",
-      "lastModified": "2026-05-28",
+      "notes": "Responded to an ad. Traded a little but got scammed and has been in jail for a couple years. Is interested in signals but wants to learn on his own. Heard back from Shawn. He is interested but cant afford it now. He will reach out when he can. I will move this one to nurture",
+      "lastModified": "2026-06-01",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T17:36:36.737Z"
     },
@@ -379,5 +379,5 @@
       "addedAt": "2026-06-01T15:47:33.305Z"
     }
   ],
-  "lastUpdated": "2026-06-01T15:52:46.556Z"
+  "lastUpdated": "2026-06-01T15:53:30.994Z"
 }
