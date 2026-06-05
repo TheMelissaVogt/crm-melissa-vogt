@@ -334,11 +334,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Warm",
-      "lastAction": "Follow-up 1",
-      "lastContact": "2026-05-28",
-      "nextFollowUp": "2026-06-02",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-07-05",
       "notes": "Responded to Ad. Was concerned about me being a scammer he said hes gotten scammed so much with trading. Sent voice note back but didn't get response. Sent 1st Follow-Up",
-      "lastModified": "2026-05-28",
+      "lastModified": "2026-06-05",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T18:22:41.001Z"
     },
@@ -523,5 +523,5 @@
       "addedAt": "2026-06-01T16:07:13.062Z"
     }
   ],
-  "lastUpdated": "2026-06-05T19:44:06.451Z"
+  "lastUpdated": "2026-06-05T19:44:17.197Z"
 }
