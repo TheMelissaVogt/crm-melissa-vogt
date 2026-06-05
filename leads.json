@@ -118,11 +118,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Warm",
-      "lastAction": "Follow-up 1",
-      "lastContact": "2026-05-30",
-      "nextFollowUp": "2026-06-02",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-07-05",
       "notes": "Responded to Ad. Brand new to trading. Sent voice note, waiting for response. Sent 1st follow-up used follow-up script #1",
-      "lastModified": "2026-05-30",
+      "lastModified": "2026-06-05",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T17:13:03.771Z"
     },
@@ -523,5 +523,5 @@
       "addedAt": "2026-06-01T16:07:13.062Z"
     }
   ],
-  "lastUpdated": "2026-06-05T19:40:04.629Z"
+  "lastUpdated": "2026-06-05T19:40:38.434Z"
 }
