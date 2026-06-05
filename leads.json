@@ -11,8 +11,8 @@
       "videoSent": false,
       "temperature": "Warm",
       "lastAction": "Nurture",
-      "lastContact": "2026-05-30",
-      "nextFollowUp": "2026-06-02",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-07-05",
       "notes": "Brand new to trading. Wants to replace his full-time income",
       "lastModified": "2026-06-05",
       "dateAdded": "2026-05-28",
@@ -523,5 +523,5 @@
       "addedAt": "2026-06-01T16:07:13.062Z"
     }
   ],
-  "lastUpdated": "2026-06-05T19:36:44.418Z"
+  "lastUpdated": "2026-06-05T19:36:56.761Z"
 }
