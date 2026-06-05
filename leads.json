@@ -370,9 +370,9 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Closed",
-      "lastContact": "2026-06-01",
-      "nextFollowUp": "2026-06-03",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-07-05",
       "notes": "sent script",
       "lastModified": "2026-06-05",
       "dateAdded": "2026-06-01",
@@ -523,5 +523,5 @@
       "addedAt": "2026-06-01T16:07:13.062Z"
     }
   ],
-  "lastUpdated": "2026-06-05T19:45:51.305Z"
+  "lastUpdated": "2026-06-05T19:46:02.178Z"
 }
