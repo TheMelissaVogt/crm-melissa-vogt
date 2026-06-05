@@ -190,11 +190,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Warm",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-05-30",
-      "nextFollowUp": "2026-06-03",
+      "lastAction": "Follow-up 2",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-07-05",
       "notes": "Responded to ad, trades currently but struggles with consistency and entry. Sent voice note back, waiting response. 1st follow up sent #2",
-      "lastModified": "2026-05-30",
+      "lastModified": "2026-06-05",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T17:23:36.123Z"
     },
@@ -523,5 +523,5 @@
       "addedAt": "2026-06-01T16:07:13.062Z"
     }
   ],
-  "lastUpdated": "2026-06-05T19:49:17.591Z"
+  "lastUpdated": "2026-06-05T19:50:17.777Z"
 }
