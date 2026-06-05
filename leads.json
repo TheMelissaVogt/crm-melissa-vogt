@@ -316,11 +316,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Warm",
-      "lastAction": "Follow-up 1",
-      "lastContact": "2026-05-28",
-      "nextFollowUp": "2026-06-02",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-07-05",
       "notes": "Responded to Ad. Has traded a little on and off. Never got consistent. Wanted to schedule a zoom.",
-      "lastModified": "2026-05-28",
+      "lastModified": "2026-06-05",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T18:15:54.537Z"
     },
@@ -523,5 +523,5 @@
       "addedAt": "2026-06-01T16:07:13.062Z"
     }
   ],
-  "lastUpdated": "2026-06-05T19:43:02.952Z"
+  "lastUpdated": "2026-06-05T19:43:33.731Z"
 }
