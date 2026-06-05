@@ -47,8 +47,8 @@
       "videoSent": false,
       "temperature": "Warm",
       "lastAction": "Not Interested",
-      "lastContact": "2026-05-30",
-      "nextFollowUp": "2026-06-03",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-07-05",
       "notes": "Lives in Wisconsin - reached out from Ad, no response",
       "lastModified": "2026-06-05",
       "dateAdded": "2026-05-28",
@@ -523,5 +523,5 @@
       "addedAt": "2026-06-01T16:07:13.062Z"
     }
   ],
-  "lastUpdated": "2026-06-05T19:37:59.312Z"
+  "lastUpdated": "2026-06-05T19:38:18.204Z"
 }
