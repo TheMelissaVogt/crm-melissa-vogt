@@ -262,11 +262,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Warm",
-      "lastAction": "Follow-up 1",
-      "lastContact": "2026-05-28",
-      "nextFollowUp": "2026-06-02",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-07-05",
       "notes": "Responded to ad - Mostly curios about tools. Asked how they can help him. Sent a voice note response. No response. Sent a follow-up asking what kind of trading he was mainly focused on right now. ",
-      "lastModified": "2026-05-28",
+      "lastModified": "2026-06-05",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T17:49:34.847Z"
     },
@@ -523,5 +523,5 @@
       "addedAt": "2026-06-01T16:07:13.062Z"
     }
   ],
-  "lastUpdated": "2026-06-05T19:41:50.997Z"
+  "lastUpdated": "2026-06-05T19:42:48.252Z"
 }
